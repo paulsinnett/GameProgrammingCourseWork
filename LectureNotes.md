@@ -16,7 +16,7 @@
 ## Reflection
   * what did we learn last week?
   * is everyone on GitHub?
-  * did you have a rubber duck?
+  * do you have a rubber duck?
 
 ## Keeping a learning journal
   * What did you learn in the second week of the first semester last year?
@@ -24,7 +24,7 @@
   
 ## How we teach computing in the UK
   * Livingstone Hope review
-  * [Eric Schmit lecture](https://www.youtube.com/watch?v=OrAzjYKd8hE)
+  * [Eric Schmidt lecture](https://www.youtube.com/watch?v=OrAzjYKd8hE)
   * New computing initiatives
   * My [Code Club](http://blog.powered-up-games.com/wordpress/archives/130)
   
