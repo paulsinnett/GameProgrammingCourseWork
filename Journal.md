@@ -15,3 +15,11 @@ Tracked down a bug in our GPS prediction code. It seems the prediction was quant
 ### 10/10/2016
 
 I thought we had an issue with the ground speed as reported by our GPS unit being almost twice as big as it should be. But it actually turned out to be that the time step in my data was actually 50Hz rather than the 20 Hz I had assumed.
+
+### 12/10/2016
+
+I had a 2D FIFO buffer storing X and Y coordinates. The function treated the X and Y entries as a pair, but I was calling it twice, once for X and once for Y, so the entries got added twice. This halved the size of my FIFO and caused an error in my prediction.
+
+### 17/10/2016
+
+I had a condition to check if the drone was in position hold mode and a separate condition to set and reset the position hold location. This meant that it was position to not have the hold position set (actually it retained the previous value) while the position hold mode remained active.
