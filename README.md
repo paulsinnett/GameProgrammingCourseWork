@@ -26,3 +26,5 @@ save slots
 
 pause menu
   separate pause components
+
+state machines
