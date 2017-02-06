@@ -23,3 +23,7 @@ I had a 2D FIFO buffer storing X and Y coordinates. The function treated the X a
 ### 17/10/2016
 
 I had a condition to check if the drone was in position hold mode and a separate condition to set and reset the position hold location. This meant that it was position to not have the hold position set (actually it retained the previous value) while the position hold mode remained active.
+
+### 06/02/2017
+
+I watched a mathematics video discussing continued fractions. In it, the mathematician claimed 1 / (sqrt(2) - 1) was equal to the sqrt(2) + 1. I checked this in a calculator and it looked right. But I guessed that if it was true, it should be possible to show that the expressions were equal. That turned out to be the case. It took me a few tries, but I found it by multiplying both sides by sqrt(2) - 1.
