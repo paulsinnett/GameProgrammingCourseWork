@@ -6,25 +6,25 @@ course work examples and notes for GPG
 # lecture ideas
 
 co-routines
-  background sim city style calculation
+  * background sim city style calculation
   
 procedural generation
-  terrain
+  * terrain
   
 node based path finding
-  NavMesh? point to point path
+  * NavMesh? point to point path
   
 field of vision sensing
-  trigonometry
+  * trigonometry
   
 time replay
 
-raycasting
-  what is it?
+~~raycasting
+  * what is it?~~
   
 save slots
 
 pause menu
-  separate pause components
+  * separate pause components
 
 state machines
