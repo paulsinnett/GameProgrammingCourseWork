@@ -19,8 +19,8 @@ field of vision sensing
   
 time replay
 
-~~raycasting
-  * what is it?~~
+~~raycasting~~
+  ~~* what is it?~~
   
 save slots
 
