@@ -5,7 +5,7 @@ course work examples and notes for GPG
 
 # lecture ideas
 
-co-routines
+~~co-routines~~
   * background sim city style calculation
   
 procedural generation
