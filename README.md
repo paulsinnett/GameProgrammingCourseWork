@@ -14,8 +14,8 @@ procedural generation
 node based path finding
   * NavMesh? point to point path
   
-~~field of vision sensing
-  * trigonometry~~
+~~field of vision sensing~~
+  ~~* trigonometry~~
   
 time replay
 
