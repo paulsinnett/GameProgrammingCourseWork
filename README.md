@@ -15,12 +15,12 @@ node based path finding
   * NavMesh? point to point path
   
 ~~field of vision sensing~~
-  *~~trigonometry~~
+  * ~~trigonometry~~
   
 time replay
 
 ~~raycasting~~
-  *~~what is it?~~
+  * ~~what is it?~~
   
 save slots
 
